@@ -21,5 +21,5 @@ if (participateEvents==events[1]){
 }else if (participateEvents==events[2]){
     payAmount=individualFeesForEvents[2]
 }
-console.log(`Thank You for participating in ${participateEvents}`);
+console.log(`Thank you for participating in ${participateEvents}`);
 console.log(`Please pay the amount for participation ${payAmount}`);
